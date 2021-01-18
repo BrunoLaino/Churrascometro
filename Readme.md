@@ -17,4 +17,4 @@
 </ul>
 
 ## 👷🏻 Status:
-🚧 Projeto Em construção... 🚧
+✔️ Versão 1.0 concluida ✔️
